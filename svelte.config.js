@@ -7,7 +7,7 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: 'https://your-devvdiego.github.io/svelteProjects'
+			base: '/svelteProjects'
 		}
 	}
 };
