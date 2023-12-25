@@ -7,7 +7,7 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: process.argv.includes('dev') ? 'https://your-devvdiego.github.io/svelteProjects' : process.env.BASE_PATH
+			base: 'https://your-devvdiego.github.io/svelteProjects'
 		}
 	}
 };
