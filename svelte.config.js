@@ -9,7 +9,7 @@ const config = {
             assets: "docs"
 		}),
 		paths: {
-			base: './app'
+			base: '/app'
 		}
 	}
 };
